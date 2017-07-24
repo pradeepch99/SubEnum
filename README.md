@@ -10,7 +10,7 @@ Add python modules path in burp Python Environment
 
 # Usage
 
-![Animate](/images/animate.gif)
+![Animate](/images/subenum.gif)
 
 # Thanks
 [@nagaraju](http://twitter.com/nagarockshard) & [@jashwanth](http://twitter.com/kondurujash)
